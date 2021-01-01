@@ -28,10 +28,10 @@
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/starkeyjennifer/">LinkedIn</a>
-- 📷 Enjoying life and inspiration on <a herf="https://www.instagram.com/jenniferstarkey/?hl=en">Instagram</a>
+- 📷 Enjoying life and inspiration on <a href="https://www.instagram.com/jenniferstarkey/?hl=en">Instagram</a>
 - 💻 Updating my personal website with examples of my work on <a href="https://jenniferstarkey.github.io/">jenniferstarkey.github.io</a>
 - 🐦 Tweeting about life and sharing relatable tech things on <a href="https://twitter.com/jenn_starkey">Twitter</a>
 
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=jenniferstarkey&theme=synthwave&show_icons=true&hide_border=true)
+<a href="https://github-readme-stats.vercel.app/api?username=jenniferstarkey&layout=compact&theme=synthwave&show_icons=true&hide_border=true"><img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jenniferstarkey&layout=compact&theme=synthwave&show_icons=true&hide_border=true" /> </a>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferstarkey&theme=synthwave)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferstarkey&layout=compact&theme=synthwave"><img self-align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferstarkey&layout=compact&theme=synthwave" /> </a>
