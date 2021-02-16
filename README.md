@@ -4,8 +4,8 @@
 ### Hey there, I'm Jennifer 👋
 #### I'm a Full-Stack Engineer in Nashville, Tennessee.
 
-- ▶ I'm currently expanding my knowledge and experience at **Nashville Software School** 
-- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
+- ▶ I'm currently expanding my knowledge and experience with **SQL and C#**
+- 🌱 Learning more about and studying: **React Native CS Algorithms**
 - 💗Passionate about creating unique experiences and making a difference in the world!
 - 🐺 Husky mom, 🍲 foodie, ☕ coffee addict, and ⛰ visionary
 <br></br>
