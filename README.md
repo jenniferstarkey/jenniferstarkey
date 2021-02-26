@@ -5,7 +5,7 @@
 #### I'm a Full-Stack Engineer in Nashville, Tennessee.
 
 - ▶ I'm currently expanding my knowledge and experience with **SQL and C#**
-- 🌱 Learning more about and studying: **React Native CS Algorithms**
+- 🌱 Learning more about and studying: **React Native & CS Algorithms**
 - 💗Passionate about creating unique experiences and making a difference in the world!
 - 🐺 Husky mom, 🍲 foodie, ☕ coffee addict, and ⛰ visionary
 <br></br>
